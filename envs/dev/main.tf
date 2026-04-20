@@ -75,5 +75,5 @@ module "secrets_manager" {
   jwt_secret  = var.jwt_secret
 }
 
-data "aws_caller_identity" "current" {}
 # trigger workflow
+# trigger workflow again - test 123
