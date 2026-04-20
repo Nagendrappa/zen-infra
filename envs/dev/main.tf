@@ -76,3 +76,4 @@ module "secrets_manager" {
 }
 
 data "aws_caller_identity" "current" {}
+# trigger workflow
