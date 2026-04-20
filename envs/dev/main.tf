@@ -74,3 +74,6 @@ module "secrets_manager" {
   db_password = var.db_password
   jwt_secret  = var.jwt_secret
 }
+
+# trigger workflow
+# trigger workflow again - test 123
